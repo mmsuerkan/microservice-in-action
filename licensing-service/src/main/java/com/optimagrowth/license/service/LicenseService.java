@@ -10,6 +10,7 @@ import java.util.Random;
 
 @Service
 public class LicenseService {
+
     @Autowired
     MessageSource messages;
 
